@@ -1,0 +1,3 @@
+-keep class com.ben10.watchface.** { *; }
+-keep class android.support.wearable.** { *; }
+-keep class com.google.android.wearable.** { *; }

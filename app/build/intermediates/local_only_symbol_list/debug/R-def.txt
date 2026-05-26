@@ -1,0 +1,12 @@
+R_DEF: Internal format may change without notice
+local
+color background
+color omnitrix_green
+color omnitrix_green_dark
+color second_hand
+drawable omnitrix_aod
+drawable omnitrix_bg
+drawable preview_circular
+mipmap ic_launcher
+string app_name
+xml watch_face
