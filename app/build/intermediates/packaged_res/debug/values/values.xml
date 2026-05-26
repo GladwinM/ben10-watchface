@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="background">#080808</color>
-    <color name="omnitrix_green">#00FF41</color>
-    <color name="omnitrix_green_dark">#003B00</color>
-    <color name="second_hand">#FF6600</color>
-    <string name="app_name">Ben 10 Watch Face</string>
-</resources>
